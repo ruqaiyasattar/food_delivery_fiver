@@ -1,0 +1,107 @@
+name: food_delivery_app
+description: A new Flutter application.
+
+version: 3.0.0+12
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^3.0.0+1
+  get_it: ^1.0.3+2
+  rxdart: ^0.21.0
+  flutter_swiper: ^1.1.6
+  flip_card: ^0.2.1
+  fancy_bottom_navigation: ^0.3.2
+  smooth_star_rating: ^1.0.3
+  carousel_slider: ^1.3.0
+  flare_flutter: ^1.5.5
+  fluttertoast: ^3.1.3
+  loading: ^1.0.2
+  firebase_analytics: ^5.0.2
+  firebase_core: ^0.4.0+9
+  firebase_auth: ^0.14.0+5
+#  flutter_facebook_login: ^3.0.0
+  google_sign_in: ^4.1.1
+  firebase_storage: ^3.1.3
+  cloud_firestore: ^0.13.6
+  shared_preferences: ^0.5.6+1
+  stripe_sdk: ^2.4.2
+  stripe_payment: ^1.0.6
+  image_picker: ^0.6.0
+  flutter_automation: ^1.3.2
+  flutter_staggered_grid_view: ^0.3.0
+  cupertino_icons: ^0.1.2
+  flutter_form_builder: ^3.8.1
+  file_picker: ^1.4.3+2
+  url_launcher: ^5.4.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.7.2"
+flutter_icons:
+  image_path: "assets/icon&splashs/launcher.png"
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: CustomSocial
+      fonts:
+        - asset: assets/CustomSocial.ttf
+    - family: Timesroman
+      fonts:
+        - asset: assets/serif-regular.ttf
+        - asset: assets/serifbold.ttf
+          weight: 700
+
+    - family: Quicksand
+      fonts:
+        - asset: assets/Quicksand-Regular.ttf
+  assets:
+    - assets/
+    - assets/home_background.jpeg
+    - assets/food1.jpg
+    - assets/food2.jpg
+    - assets/food3.jpg
+    - assets/food4.jpg
+    - assets/food5.jpg
+    - assets/food6.jpg
+    - assets/food7.jpg
+    - assets/food8.jpg
+    - assets/food9.jpg
+    - assets/Asset51.png
+    - assets/food10.jpg
+    - assets/food11.jpg
+    - assets/food12.jpg
+    - assets/food13.jpg
+    - assets/food14.jpg
+    - assets/profil.jpg
+    - assets/profile2.jpg
+    - assets/profile3.jpg
+    - assets/profil4.jpg
+    - assets/sun.png
+    - assets/moon.png
+    - assets/switcher.flr
+    - assets/Walkthrough/Best_Chef_day.png
+    - assets/Walkthrough/Best_Chef_night.png
+    - assets/Walkthrough/Perfect_Price_day.png
+    - assets/Walkthrough/Perfect_Price_night.png
+    - assets/Walkthrough/Perfect_Taste_day.png
+    - assets/Walkthrough/Perfect_Taste_night.png
+    - assets/Walkthrough/Relaxed_Atmosphere_day.png
+    - assets/Walkthrough/Relaxed_Atmosphere_night.png
+    - assets/Walkthrough/transparent.png
+    - assets/icons&splashs/splash_day.png
+    - assets/icons&splashs/splash_night.png
+    - assets/icons&splashs/Asset 61.png
+    - assets/icons&splashs/Asset 51.png
+    - assets/icons&splashs/Asset 41.png
+    - assets/icons&splashs/Asset 31.png
+    - assets/Walkthrough/
+    - assets/icons&splashs/
+    - assets/icons&splashs/launcher.png

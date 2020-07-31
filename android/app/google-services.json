@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "26368397486",
+    "firebase_url": "https://appitalysales.firebaseio.com",
+    "project_id": "appitalysales",
+    "storage_bucket": "appitalysales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26368397486:android:8518d044a5e2f73621dd3f",
+        "android_client_info": {
+          "package_name": "com.appsbyasfar.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26368397486-ugl69ec7te256ounpmc33ev2aoq8l1ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM_QWvPRU1WOjD-qbrr6u_d3yDbNaAxVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26368397486-ugl69ec7te256ounpmc33ev2aoq8l1ql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "26368397486-ba2o9etj2h99mivnib7gcctvgfrmc3r2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsbyasfar.foodDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
